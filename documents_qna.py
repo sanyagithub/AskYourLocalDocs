@@ -85,7 +85,7 @@ def process_documents(directory):
                 doc_texts.append(text)
 
 # Process documents in the current directory
-process_documents("/Users/sanyakhurana/Downloads")
+process_documents("YOUR_DIRECTORY_HERE")
 
 # Generate embeddings for the processed documents
 if doc_texts:
