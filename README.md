@@ -68,8 +68,3 @@ This project is licensed under the MIT License.
 ---
 
 🌟 Let’s keep building and learning together!
-
----
-
-Let me know if you need any adjustments or additions! 😊
-
